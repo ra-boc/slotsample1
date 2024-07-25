@@ -5,7 +5,7 @@
 Game::Game(const InitData& init)
 	: IScene{ init }
 {
-	
+
 
 	// フォント
 	const Font font{ FontMethod::MSDF, 48,
@@ -143,7 +143,7 @@ void Game::update()
 		// ランキング画面へ
 		changeScene(State::Title);
 
-		
+
 	}
 }
 

@@ -318,6 +318,7 @@
   <ItemGroup>
     <ClInclude Include="Common.hpp" />
     <ClInclude Include="Game.hpp" />
+    <ClInclude Include="map.hpp" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="Title.hpp" />
   </ItemGroup>
